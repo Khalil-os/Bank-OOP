@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Bank OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E78837-56B0-41C4-9D73-811A2BD33C4D}|Bank OOP\\Bank OOP.vcxproj|C:\\Users\\HP\\source\\repos\\Bank OOP\\Bank OOP\\Bank OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45E78837-56B0-41C4-9D73-811A2BD33C4D}|Bank OOP\\Bank OOP.vcxproj|solutionrelative:Bank OOP\\Bank OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Bank OOP\\Bank OOP\\Bank OOP.cpp",
+              "RelativeDocumentMoniker": "Bank OOP\\Bank OOP.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Bank OOP\\Bank OOP\\Bank OOP.cpp",
+              "RelativeToolTip": "Bank OOP\\Bank OOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T17:43:22.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

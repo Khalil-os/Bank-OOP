@@ -1,0 +1,48 @@
+﻿  Bank OOP.cpp
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(30,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUpdateClientScreen.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsTotalBalanceScreen.h(19,19): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindCurrencyScreen.h(33,56): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'Bank%20OOP.cpp')
+  
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsLoginScreen.h(47,1): warning C4715: 'clsLoginScreen::ShowLoginScreen': not all control paths return a value
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsBankClient.h(209,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsUser.h(230,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\HP\source\repos\Bank OOP\Bank OOP\clsFindCurrencyScreen.h(56,1): warning C4715: 'clsFindCurrencyScreen::Find': not all control paths return a value
+  Bank OOP.vcxproj -> C:\Users\HP\source\repos\Bank OOP\x64\Debug\Bank OOP.exe
